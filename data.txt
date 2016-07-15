@@ -1,6 +1,11 @@
+================================
+		Hallelujah. v0.2		
+================================
+
 This is the source code
 
 This is feature 1
 
 This is feature 2
 
+This is feature 3 - Veel verbeterd
